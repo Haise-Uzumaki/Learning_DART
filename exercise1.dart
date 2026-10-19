@@ -1,4 +1,5 @@
 /*
+Exercise 1: 
 Develop a program to calculate the shipping cost based on the destination zone and the weight of the package 
 Calculate the shipping cost according to these conditions: 
   If the destination zone is 'XYZ', the shipping cost is $5 per KG
